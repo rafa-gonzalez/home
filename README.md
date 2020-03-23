@@ -1,11 +1,11 @@
-# Frisco
+# Mimozza
 
 App promotion themed template for Jekyll. Browse through a [live demo](https://brave-submarine.cloudvent.net/).
 Increase the web presence of a App with this configurable theme.
 
-![Frisco template screenshot](images/_screenshot.jpg)
+![Mimozza template screenshot](images/_screenshot.jpg)
 
-Frisco was made by [CloudCannon](http://cloudcannon.com/), the Cloud CMS for Jekyll.
+Mimozza was made by [CloudCannon](http://cloudcannon.com/), the Cloud CMS for Jekyll.
 
 Find more templates, themes and step-by-step Jekyll tutorials at [CloudCannon Academy](https://learn.cloudcannon.com/).
 
@@ -32,7 +32,7 @@ Find more templates, themes and step-by-step Jekyll tutorials at [CloudCannon Ac
 
 ## Develop
 
-Frisco was built with [Jekyll](http://jekyllrb.com/) version 3.3.1, but should support newer versions as well.
+Mimozza was built with [Jekyll](http://jekyllrb.com/) version 3.3.1, but should support newer versions as well.
 
 Install the dependencies with [Bundler](http://bundler.io/):
 
@@ -48,7 +48,7 @@ $ bundle exec jekyll serve
 
 ## Editing
 
-Frisco is already optimised for adding, updating and removing pages, staff, advice, company details and footer elements in CloudCannon.
+Mimozza is already optimised for adding, updating and removing pages, staff, advice, company details and footer elements in CloudCannon.
 
 ### Posts
 
